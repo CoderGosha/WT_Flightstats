@@ -1,0 +1,8 @@
+/.idea
+/__pycache__
+/venv
+/Fly/__pycache__
+/Fly/services/__pycache__
+/Fly/models/__pycache__/*.pyc
+/Fly/helpers/__pycache__
+/log
